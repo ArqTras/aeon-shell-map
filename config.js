@@ -2,7 +2,7 @@
 
 const config = {};
 
-config.networkNodeListJSONurl = './arqma-nodes.json';
+config.networkNodeListJSONurl = './aeon-nodes.json';
 
 config.serverHost = '127.0.0.1';
 

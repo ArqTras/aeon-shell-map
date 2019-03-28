@@ -1,10 +1,10 @@
-# shell-map
+# aeon-shell-map
 
 ## Setup
 
 ```
-git clone https://github.com/arqtras/shell-map.git
-cd shell-map
+git clone https://github.com/arqtras/aeon-shell-map.git
+cd aeon-shell-map
 npm install
 node ./node_modules/geoip-lite/scripts/updatedb.js
 ```

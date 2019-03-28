@@ -1,12 +1,12 @@
 {
   "name": "shell-map",
   "version": "1.0.0",
-  "description": "Provides a map of ArQmA nodes.",
+  "description": "Provides a map of AEON nodes.",
   "main": "init.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "ArQmA Team (Muscleman, ArqTras) && oryginally forked from DiscoTim",
+  "author": "ArQmA Team && oryginally forked from DiscoTim",
   "license": "AGPL-3.0-or-later",
   "dependencies": {
     "arqma-rpc": "git://github.com/arqtras/arqma-rpc.git",
